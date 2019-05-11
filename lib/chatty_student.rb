@@ -1,4 +1,4 @@
-class Chattystudent 
+class ChattyStudent 
   
   def initialize()
     
