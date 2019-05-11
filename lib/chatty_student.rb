@@ -1,8 +1,8 @@
 class ChattyStudent < Student 
   
   def hello
-    
-   super  "How are you doing today? I'm okay, but I'm kind of tired....n, it was so crazy! What, you don't want any spoilers? Okay well let me just tell you who died..."
+   long_chatty_phrase = "How are you doing today? I'm okay, but I'm kind of tired....n, it was so crazy! What, you don't want any spoilers? Okay well let me just tell you who died..."
+   super  
   end 
   
   def raise_hand 
