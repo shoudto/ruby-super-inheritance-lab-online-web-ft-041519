@@ -1,8 +1,7 @@
 class ChattyStudent < Student 
   
-  def hello(greeting) 
+  def hello
     super 
-    puts greeting 
   end 
   
   def raise_hand 
