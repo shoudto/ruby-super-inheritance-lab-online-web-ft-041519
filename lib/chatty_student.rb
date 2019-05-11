@@ -1,6 +1,10 @@
 class ChattyStudent < Student 
   
-  def initialize()
+  def hello 
+    
+  end 
+  
+  def raise_hand 
     
   end 
   
