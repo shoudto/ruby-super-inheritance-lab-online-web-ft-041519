@@ -1,7 +1,7 @@
 class ChattyStudent < Student 
   
   def hello
-    super 
+    if super 
   end 
   
   def raise_hand 
