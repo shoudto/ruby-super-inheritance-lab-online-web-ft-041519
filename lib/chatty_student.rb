@@ -3,6 +3,7 @@ require 'pry'
 class ChattyStudent < Student 
   
   def hello(greeting) 
+    binding.pry 
     super 
   end 
   
