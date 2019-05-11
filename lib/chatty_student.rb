@@ -1,4 +1,7 @@
 class Chatty_student 
   
-  def initialize
+  attr_accessor :chatty_student 
+  def initialize(chatty_student)
+    @chatty_student = 
+  end 
 end 
