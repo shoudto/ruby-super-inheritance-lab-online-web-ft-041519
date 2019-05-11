@@ -1,6 +1,8 @@
+require 'pry'
+
 class ChattyStudent < Student 
   
-  def hello 
+  def hello(greeting) 
     super 
   end 
   
