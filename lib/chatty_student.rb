@@ -5,11 +5,8 @@ class ChattyStudent < Student
   end 
   
   def raise_hand 
-    10.super.times 
-    
     10.times do 
-      phrase = 
+     super
     end 
   end 
-  
 end 
